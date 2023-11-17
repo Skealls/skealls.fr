@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  WEBSITE_URL: https://www.skealls.fr
+  WEBSITE_URL: https://skealls.fr
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
